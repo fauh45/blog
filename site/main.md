@@ -1,3 +1,5 @@
+title = "fauzan's site!"
+---metadata---
 # Fauzan's site
 
 I'm a developer, been one for a while, still loves to write code, especially in those "eccentric" languages.
